@@ -6,25 +6,26 @@ This readme contains information and lists of open sourced websites and repos fo
 Read the [LICENCE](LICENSE), [code of conduct](code-of-conduct.md) and [contribution guidelines](contributing.md) if you want to add to this list.
 
 
-### Contents
+## Contents
 
-* [Don't ask to ask, just ask!](#don't-ask-to-ask,-just-ask)
-* [No Hello - Why not to just say hello.](#no-hello)
-* [How do I ask a good question?](#how-do-i-ask-a-good-question?)
-* [How to ask questions the smart way.](#how-to-ask-questions-the-smart-way)
+- [Don't ask to ask, just ask!](#don't-ask-to-ask,-just-ask)
+- [No Hello - Why not to just say hello.](#no-hello)
+- [How do I ask a good question?](#how-do-i-ask-a-good-question?)
+- [How to ask questions the smart way.](#how-to-ask-questions-the-smart-way)
 
 <hr>
 
-## [Don't ask to ask, just ask!](https://dontasktoask.com/)
+## [Don't ask to ask, just ask](https://dontasktoask.com/)
 
 An informational website about why you should ask questions directly instead of asking to ask!
 
 Every now and then, in online chat rooms I hang around in, someone pops in and says something in the lines of,
 
 > Foobar123: Any Java experts around?
-This is bad form, for several reasons. What the person is actually asking here is,
+> This is bad form, for several reasons. What the person is actually asking here is,
 
 > Foobar123: Any Java experts around who are willing to commit into looking into my problem, whatever that may turn out to be, even if it's not actually related to Java or if someone who doesn't know anything about Java could actually answer my question?
+
 There are plenty of reasons why people who DO have the knowledge would not admit to it. By asking, you're asking for more than what you think you're asking.
 
 You're asking people to take responsibility. You're questioning people's confidence in their abilities. You're also unnecessarily walling other people out. I often answer questions related to languages or libraries I have never used, because the answers are (in a programmer kind of way) common sense.
@@ -53,16 +54,16 @@ Please Don't Say Just Hello In Chat
 
 CO-WORKER WAITS WHILE YOU PHRASE YOUR QUESTION
 
-> 2010-07-19 12:34:01 you: I'm working on [something] and I'm trying to do [etc...]
+> 2010-07-19 12:34:01 you: I'm working on `something` and I'm trying to do etc.
 
-> 2010-07-19 12:35:21 co-worker: Oh, that's [answer...]
+> 2010-07-19 12:35:21 co-worker: Oh, that's `answer`
  
 
 It's as if you called someone on the phone and said "Hi!" and then put them on hold!
 
 Please do this instead:
 
-> 2010-07-19 12:32:12 you: Hi -- I'm working on [something] and I'm trying to do [etc...]
+> 2010-07-19 12:32:12 you: Hi -- I'm working on `something` and I'm trying to do etc.
 
 > 2010-07-19 12:33:32 co-worker: [answers question]  
 
@@ -71,13 +72,13 @@ Please do this instead:
 You're trying to be polite by not jumping right into the request, like you would do in person or on the phone. But Chat is neither of those things. Typing is much slower than talking. Instead of being polite, you are just making the other person wait for you to phrase your question, which is lost productivity.
 
 The same goes for 
-> "Hello -- Are you there?", "Hi Bob -- quick question.", "Do you have a sec ?", "yt?" and "ping".
+> "Hello -- Are you there?", "Hi Bob -- quick question.", "Do you have a sec?", "yt?" and "ping".
 
 ### Just ask the question
 
 If you feel it's brusque to simply say "Hi" and ask the question, you can do something like this:
 
-> 2010-07-19 12:32:12 you: Hi -- if you're not busy I was wondering if I could ask a question.  I'm working on [something] and I'm trying to do [etc...]
+> 2010-07-19 12:32:12 you: Hi -- if you're not busy I was wondering if I could ask a question.  I'm working on `something` and I'm trying to do etc.
 
 Additionally, asking your question before getting a reply allows asynchronous communication. If the other party is away, and you leave before they come back, they can still answer your question, instead of just staring at a "Hello" and wondering what they missed.
 
@@ -101,13 +102,12 @@ Pretend you're talking to a busy colleague and have to sum up your entire questi
 If you're having trouble summarizing the problem, write the title last - sometimes writing the rest of the question first can make it easier to describe the problem.
 
 **Examples:**
-
-- **Bad:** C# Math Confusion
-- **Good:** Why does using float instead of int give me different results when all of my inputs are integers?
-- **Bad:** [php] session doubt
-- **Good:** How can I redirect users to different pages based on session data in PHP?
-- **Bad:** android if else problems
-- **Good:** Why does str == "value" evaluate to false when str is set to "value"?
+* **Bad:** C# Math Confusion
+* **Good:** Why does using float instead of int give me different results when all of my inputs are integers?
+* **Bad:** php session doubt
+* **Good:** How can I redirect users to different pages based on session data in PHP?
+* **Bad:** android if else problems
+* **Good:** Why does str == "value" evaluate to false when str is set to "value"?
 
 Introduce the problem before you post any code
 In the body of your question, start by expanding on the summary you put in the title. 
@@ -144,12 +144,12 @@ In spite of all your efforts, you may find your questions poorly-received. Don't
 
 Before asking a technical question by e-mail, or in a newsgroup, or on a website chat board, do the following:
 
-- Try to find an answer by searching the archives of the forum or mailing list you plan to post to.
-- Try to find an answer by searching the Web.
-- Try to find an answer by reading the manual.
-- Try to find an answer by reading a FAQ.
-- Try to find an answer by inspection or experimentation.
-- Try to find an answer by asking a skilled friend.
+* Try to find an answer by searching the archives of the forum or mailing list you plan to post to.
+* Try to find an answer by searching the Web.
+* Try to find an answer by reading the manual.
+* Try to find an answer by reading a FAQ.
+* Try to find an answer by inspection or experimentation.
+* Try to find an answer by asking a skilled friend.
 
 If you're a programmer, try to find an answer by reading the source code.
 
