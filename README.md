@@ -1,6 +1,7 @@
 # Awesome List of How to Ask Questions and for Help [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-This readme contains information and lists of open sourced websites and repos for asking questions relating to coding. 
+This readme contains information and lists of open sourced websites and repos for asking questions relating to coding and is also useful for helping users to write issues and pull requests.
+
 **Note:** I do not own any of these websites nor can I edit the following websites unless stated. 
 
 Read the [LICENCE](LICENSE), [code of conduct](code-of-conduct.md) and [contribution guidelines](contributing.md) if you want to add to this list.
@@ -8,7 +9,7 @@ Read the [LICENCE](LICENSE), [code of conduct](code-of-conduct.md) and [contribu
 
 ## Contents
 
-- [Don't ask to ask, just ask](#don't-ask-to-ask,-just-ask)
+- [Don't ask to ask, just ask](#don't-ask-to-ask-just-ask)
 - [No Hello - Why not to just say hello.](#no-hello)
 - [How do I ask a good question](#how-do-i-ask-a-good-question)
 - [How to ask questions the smart way.](#how-to-ask-questions-the-smart-way)
@@ -144,12 +145,12 @@ In spite of all your efforts, you may find your questions poorly-received. Don't
 
 Before asking a technical question by e-mail, or in a newsgroup, or on a website chat board, do the following:
 
-* Try to find an answer by searching the archives of the forum or mailing list you plan to post to.
-* Try to find an answer by searching the Web.
-* Try to find an answer by reading the manual.
-* Try to find an answer by reading a FAQ.
-* Try to find an answer by inspection or experimentation.
-* Try to find an answer by asking a skilled friend.
+- Try to find an answer by searching the archives of the forum or mailing list you plan to post to.
+- Try to find an answer by searching the Web.
+- Try to find an answer by reading the manual.
+- Try to find an answer by reading a FAQ.
+- Try to find an answer by inspection or experimentation.
+- Try to find an answer by asking a skilled friend.
 
 If you're a programmer, try to find an answer by reading the source code.
 
