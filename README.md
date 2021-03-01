@@ -8,10 +8,12 @@ Read the [LICENCE](LICENSE), [code of conduct](code-of-conduct.md) and [contribu
 
 ### Contents
 
-- [Don't ask to ask, just ask!](#don't-ask-to-ask,-just-ask)
-- [No Hello - Why not to just say hello.](#no-hello)
-- [How do I ask a good question?](#how-do-i-ask-a-good-question?)
-- [How to ask questions the smart way.](#how-to-ask-questions-the-smart-way)
+* [Don't ask to ask, just ask!](#don't-ask-to-ask,-just-ask)
+* [No Hello - Why not to just say hello.](#no-hello)
+* [How do I ask a good question?](#how-do-i-ask-a-good-question?)
+* [How to ask questions the smart way.](#how-to-ask-questions-the-smart-way)
+
+<hr>
 
 ## [Don't ask to ask, just ask!](https://dontasktoask.com/)
 
@@ -38,6 +40,8 @@ The solution is not to ask to ask, but just to ask. Someone who is idling on the
 
 ### But rather ask 
 > "How do I do [problem] with Java and [other relevant info]?"
+
+<hr>
 
 ## [No Hello](https://www.nohello.com/)
 
@@ -77,6 +81,7 @@ If you feel it's brusque to simply say "Hi" and ask the question, you can do som
 
 Additionally, asking your question before getting a reply allows asynchronous communication. If the other party is away, and you leave before they come back, they can still answer your question, instead of just staring at a "Hello" and wondering what they missed.
 
+<hr>
 
 ## [How do I ask a good question](https://stackoverflow.com/help/how-to-ask)
 
@@ -133,6 +138,7 @@ After you post, leave the question open in your browser for a bit, and see if an
 
 ### Look for help asking for help
 In spite of all your efforts, you may find your questions poorly-received. Don't despair! Learning to ask a good question is a worthy pursuit, and not one you'll master overnight. 
+<hr>
 
 ## [How to ask questions the smart way](http://catb.org/~esr/faqs/smart-questions.html)
 
@@ -157,7 +163,4 @@ It's not useful to tell hackers what you think is causing your problem. (If your
 **Helpful:**
 > My home-built K6/233 on an FIC-PA2007 motherboard (VIA Apollo VP2 chipset) with 256MB Corsair PC133 SDRAM starts getting frequent SIG11 errors about 20 minutes after power-on during the course of kernel compiles, but never in the first 20 minutes. Rebooting doesn't restart the clock, but powering down overnight does. Swapping out all RAM didn't help. The relevant part of a typical compile session log follows.
 
-#
-
-These websites and links are open sourced. 
-
+<hr>
