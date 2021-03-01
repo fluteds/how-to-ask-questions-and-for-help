@@ -9,14 +9,14 @@ Read the [LICENCE](LICENSE), [code of conduct](code-of-conduct.md) and [contribu
 
 ## Contents
 
-- [Don't ask to ask, just ask](#don't-ask-to-ask-just-ask)
+- [Don't ask to ask just ask.](#don't-ask-to-ask-just-ask)
 - [No Hello - Why not to just say hello.](#no-hello)
-- [How do I ask a good question](#how-do-i-ask-a-good-question)
+- [How do I ask a good question.](#how-do-i-ask-a-good-question)
 - [How to ask questions the smart way.](#how-to-ask-questions-the-smart-way)
 
 <hr>
 
-## [Don't ask to ask, just ask](https://dontasktoask.com/)
+## [Don't ask to ask just ask](https://dontasktoask.com/)
 
 An informational website about why you should ask questions directly instead of asking to ask!
 
@@ -102,13 +102,13 @@ Pretend you're talking to a busy colleague and have to sum up your entire questi
 
 If you're having trouble summarizing the problem, write the title last - sometimes writing the rest of the question first can make it easier to describe the problem.
 
-- **Examples:**
-    - **Bad:** `C#` Math Confusion
-    - **Good:** Why does using float instead of int give me different results when all of my inputs are integers?
-    - **Bad:** `php` session doubt
-    - **Good:** How can I redirect users to different pages based on session data in PHP?
-    - **Bad:** `android` if else problems
-    - **Good:** Why does str == "value" evaluate to false when str is set to "value"?
+- Examples:
+    - Bad: `C#` Math Confusion
+    - Good: Why does using float instead of int give me different results when all of my inputs are integers?
+    - Bad: `php` session doubt
+    - Good: How can I redirect users to different pages based on session data in PHP?
+    - Bad: `android` if else problems
+    - Good: Why does `str == "value"` evaluate to `false` when `str` is set to `"value"`?
 
 Introduce the problem before you post any code
 In the body of your question, start by expanding on the summary you put in the title. 
