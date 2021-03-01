@@ -1,4 +1,4 @@
-# Awesome List of How to Ask Questions and for Help [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# Awesome List of How to Ask Questions and for Help [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![GitHub Super-Linter](https://github.com/fluteds/how-to-ask-questions-and-for-help/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
 
 ## Contents
 
