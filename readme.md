@@ -1,4 +1,4 @@
-# Awesome List of How to Ask Questions and for Help [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) 
+# Awesome List of How to Ask Questions and for Help [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 ## Contents
 
@@ -7,12 +7,10 @@
 - [How do I ask a good question](#how-do-i-ask-a-good-question)
 - [How to ask questions the smart way](#how-to-ask-questions-the-smart-way)
 
-## Summary
-
 This readme contains information and lists of open sourced websites and repos for asking questions relating to coding and is also useful for helping users to write issues and pull requests.
 
 Read the [LICENCE](LICENSE), [code of conduct](code-of-conduct.md) and [contribution guidelines](contributing.md) if you want to add to this list.
-<br>**Note:** I do not own any of these websites nor can I edit the following websites unless stated. 
+<br>**Note:** I do not own any of these websites nor can I edit the following websites unless stated.
 
 <hr>
 
@@ -40,7 +38,7 @@ The solution is not to ask to ask, but just to ask. Someone who is idling on the
 ### So, to summarize, don't ask
 > "Any Java experts around?",
 
-### But rather ask 
+### But rather ask
 > "How do I do `problem` with Java and `other relevant info`?"
 
 <hr>
@@ -58,7 +56,7 @@ CO-WORKER WAITS WHILE YOU PHRASE YOUR QUESTION
 > 2010-07-19 12:34:01 you: I'm working on `something` and I'm trying to do etc.
 
 > 2010-07-19 12:35:21 co-worker: Oh, that's `answer`
- 
+
 
 It's as if you called someone on the phone and said "Hi!" and then put them on hold!
 
@@ -66,13 +64,13 @@ Please do this instead:
 
 > 2010-07-19 12:32:12 you: Hi -- I'm working on `something` and I'm trying to do etc.
 
-> 2010-07-19 12:33:32 co-worker: `answers question` 
+> 2010-07-19 12:33:32 co-worker: `answers question`
 
 **Note** that you get help minutes sooner, and you don't make them wait. Instead, the co-worker can start thinking about your question right away!
 
 You're trying to be polite by not jumping right into the request, like you would do in person or on the phone. But Chat is neither of those things. Typing is much slower than talking. Instead of being polite, you are just making the other person wait for you to phrase your question, which is lost productivity.
 
-The same goes for 
+The same goes for
 > "Hello -- Are you there?", "Hi Bob -- quick question.", "Do you have a sec?", "yt?" and "ping".
 
 ### Just ask the question
@@ -111,9 +109,9 @@ If you're having trouble summarizing the problem, write the title last - sometim
     - Good: Why does `str == "value"` evaluate to `false` when `str` is set to `"value"`?
 
 Introduce the problem before you post any code
-In the body of your question, start by expanding on the summary you put in the title. 
+In the body of your question, start by expanding on the summary you put in the title.
 
-Explain how you encountered the problem you're trying to solve, and any difficulties that have prevented you from solving it yourself. 
+Explain how you encountered the problem you're trying to solve, and any difficulties that have prevented you from solving it yourself.
 
 The first paragraph in your question is the second thing most readers will see, so make it as engaging and informative as possible.
 
@@ -122,11 +120,11 @@ Not all questions benefit from including code, but if your problem is with code 
 
 Include just enough code to allow others to reproduce the problem. For help with this, read How to create a Minimal, Complete, and Verifiable example.
 
-If it is possible to create a live example of the problem that you can link to (for example, on [sqlfiddle.com](http://sqlfiddle.com/), [jsbin.com](http://jsbin.com/) or [hasteb.in](https://hasteb.in/)) then do so - but also copy the code into the question itself. 
+If it is possible to create a live example of the problem that you can link to (for example, on [sqlfiddle.com](http://sqlfiddle.com/), [jsbin.com](http://jsbin.com/) or [hasteb.in](https://hasteb.in/)) then do so - but also copy the code into the question itself.
 
 Not everyone can access external sites, and the links may break over time. Use Stack Snippets to make a live demo of inline JavaScript / HTML / CSS.
 
-### **DO NOT post images of code, data, error messages, etc** 
+### **DO NOT post images of code, data, error messages, etc**
 Copy or type the text into the question. Please reserve the use of images for diagrams or demonstrating rendering bugs, things that are impossible to describe accurately via text. For more information please see the Meta FAQ entry Why not upload images of code/errors when asking a question?
 - Include all relevant tags
 - Try to include a tag for the language, library, and specific API your question relates to. If you start typing in the tags field, the system will suggest tags that match what you've typed - be sure and read the descriptions given for them to make sure they're relevant to the question you're asking! See also: What are tags, and how should I use them?
@@ -138,7 +136,7 @@ Post the question and respond to feedback
 After you post, leave the question open in your browser for a bit, and see if anyone comments. If you missed an obvious piece of information, be ready to respond by editing your question to include it. If someone posts an answer, be ready to try it out and provide feedback!
 
 ### Look for help asking for help
-In spite of all your efforts, you may find your questions poorly-received. Don't despair! Learning to ask a good question is a worthy pursuit, and not one you'll master overnight. 
+In spite of all your efforts, you may find your questions poorly-received. Don't despair! Learning to ask a good question is a worthy pursuit, and not one you'll master overnight.
 <hr>
 
 ## [How to ask questions the smart way](http://catb.org/~esr/faqs/smart-questions.html)
