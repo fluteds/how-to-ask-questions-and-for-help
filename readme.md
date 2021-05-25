@@ -1,4 +1,4 @@
-# Awesome List of How to Ask Questions and for Help [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# Awesome List of How to Ask for Help [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 ## Contents
 
